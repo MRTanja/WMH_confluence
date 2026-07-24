@@ -20,6 +20,18 @@ image to view it the WMH mask overlaid.
 """
 )
 
+st.sidebar.markdown(
+    """
+    ### About
+
+    Source code:
+    [GitHub repository](https://github.com/MRTanja/WMH_confluence)
+
+    [Contact me here](https://mrtanja.github.io/)
+    """
+)
+
+
 uploaded_file = st.file_uploader(
     "WMH segmentation",
     type=["nii", "gz"]
