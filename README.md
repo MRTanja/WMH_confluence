@@ -1,5 +1,3 @@
-# WMH_confluence
-
 # WMH Confluence metric
 
 This repository contains the script that calculates the WMH confluence metric described in Schmidt et al. (2026)
