@@ -17,7 +17,7 @@ Results are written to a CSV file containing one row per subject-session.
 ## Try online
 
 Upload a WMH mask (and optionally a FLAIR image) to try it out!
-[![Streamlit App](badge)]([link](https://wmhconfluence.streamlit.app/))
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([link](https://wmhconfluence.streamlit.app/))
 
 ## Installation
 
